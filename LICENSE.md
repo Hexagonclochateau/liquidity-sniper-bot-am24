@@ -1,4 +1,4 @@
-# 
+# elite liquidity sniper bot | stop-loss + blockchain-scanning is the best liquidity sniper bot, featuring stop-loss and blockchain-scanning. Fast, smart, and optimized for MEV and
 
 
 
